@@ -1,6 +1,6 @@
 console.log("Hola");
-let y = 0;
-let x = 0;
+let y = 400;
+let x = 400;
 document.addEventListener("keydown", controlTeclas);
 function controlTeclas(e) {
   let tecla = e.key;
